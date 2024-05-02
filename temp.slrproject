@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><slrProjectMetainformation>
     <title>Test</title>
-    <keywords/>
-    <projectAbstract/>
+    <keywords>test, models@run.time, sas</keywords>
+    <projectAbstract>very abstract</projectAbstract>
     <taxonomyDescription/>
-    <authorsList>
-        <email/>
-        <name/>
-        <organisation/>
+    
+<authorsList>
+        <email>sebastian.goetz@acm.org</email>
+        <name>Sebastian Götz</name>
+        <organisation>Technische Universität Dresden</organisation>
     </authorsList>
 </slrProjectMetainformation>
